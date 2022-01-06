@@ -13,11 +13,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2022-01-06T18:11:27.989+01:00
+  lastUpdatedAtString: 2022-01-06T18:15:33.959+01:00
   initializedAtString: 2022-01-06T18:11:27.975+01:00
   localBranches:
   - name: master
     tracking: origin/master
+  - name: dev
+    tracking: 
   remoteBranches:
   - name: origin/master
     tracking: '[None]'
@@ -32,12 +34,18 @@ MonoBehaviour:
   localConfigBranches:
     keys:
     - master
+    - dev
     values:
     - name: master
       remote:
         name: origin
         url: https://github.com/ZombieCrossing/ZombieCrossing-Game.git
       trackingBranch: master
+    - name: dev
+      remote:
+        name: 
+        url: 
+      trackingBranch: 
   remoteConfigBranches:
     keys:
     - origin
