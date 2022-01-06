@@ -13,6 +13,10 @@ public class PlayerScript : MonoBehaviour
     private float horizontalInput;
     private float verticalInput;
     private Rigidbody rb;
+    private float turnSmoothVelocity;
+
+    public float turnSmoothTime = 0.1f;
+    public Transform cam;
 
     // Start is called before the first frame update
     void Start()
@@ -62,11 +66,21 @@ public class PlayerScript : MonoBehaviour
 
         if (shiftPressed)
         {
-            Debug.Log("isSprinting");
             sprintSpeed = 2;
         }
 
-        rb.velocity = new Vector3(horizontalInput, rb.velocity.y / PLAYER_MOVEMENT_SPEED, verticalInput) * PLAYER_MOVEMENT_SPEED * sprintSpeed;
+        Vector3 direction = new Vector3(horizontalInput, rb.velocity.y / (PLAYER_MOVEMENT_SPEED * sprintSpeed), verticalInput).normalized;
+
+        if (horizontalInput > 0.1f ||horizontalInput < -0.1f || verticalInput > 0.1f || verticalInput < -0.1f)
+        {
+            float targetAngle = Mathf.Atan2(direction.x, direction.z) * Mathf.Rad2Deg + cam.eulerAngles.y;
+            float angle = Mathf.SmoothDampAngle(transform.eulerAngles.y, targetAngle, ref turnSmoothVelocity, turnSmoothTime);
+            transform.rotation = Quaternion.Euler(0f, angle, 0f);
+
+            Vector3 moveDirection = Quaternion.Euler(0f, targetAngle, 0f) * Vector3.forward;
+
+            rb.velocity = moveDirection.normalized * PLAYER_MOVEMENT_SPEED * sprintSpeed;
+        }
     }
 
 }

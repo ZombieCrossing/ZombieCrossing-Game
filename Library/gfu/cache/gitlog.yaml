@@ -13,9 +13,177 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2022-01-06T18:15:36.123+01:00
+  lastUpdatedAtString: 2022-01-06T18:40:30.003+01:00
   initializedAtString: 2022-01-06T18:10:05.647+01:00
   log:
+  - commitID: 57acb20992437cc2c83fdf51158f5dea2cac8863
+    mergeA: 
+    mergeB: 
+    authorName: ragor114
+    authorEmail: 69634980+ragor114@users.noreply.github.com
+    commitEmail: 69634980+ragor114@users.noreply.github.com
+    commitName: ragor114
+    summary: walking and sprinting mechanic added
+    description: 
+    timeString: 2022-01-06T18:38:44.000+01:00
+    commitTimeString: 2022-01-06T18:38:44.000+01:00
+    changes:
+    - path: Assets\Scripts\PlayerScript.cs
+      fullPath: E:\Code\ZombieCrossing\ZombieCrossingGame\Assets\Scripts\PlayerScript.cs
+      projectPath: Assets\Scripts\PlayerScript.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Artifacts\0e\0e16f80425abccf0487bbf2fbad9f5af
+      fullPath: E:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\0e\0e16f80425abccf0487bbf2fbad9f5af
+      projectPath: Library\Artifacts\0e\0e16f80425abccf0487bbf2fbad9f5af
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\2c\2cbc86a4ff9be5fee83589ffecf53bc6
+      fullPath: E:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\2c\2cbc86a4ff9be5fee83589ffecf53bc6
+      projectPath: Library\Artifacts\2c\2cbc86a4ff9be5fee83589ffecf53bc6
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\34\34e1a8083d6d278776e4be8bab2eade1
+      fullPath: E:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\34\34e1a8083d6d278776e4be8bab2eade1
+      projectPath: Library\Artifacts\34\34e1a8083d6d278776e4be8bab2eade1
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\5c\5cc3b1dd50e33835f2ca7f538a149b82
+      fullPath: E:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\5c\5cc3b1dd50e33835f2ca7f538a149b82
+      projectPath: Library\Artifacts\5c\5cc3b1dd50e33835f2ca7f538a149b82
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\62\625d07454c5ddbc540bb18dd6a6b877b
+      fullPath: E:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\62\625d07454c5ddbc540bb18dd6a6b877b
+      projectPath: Library\Artifacts\62\625d07454c5ddbc540bb18dd6a6b877b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\73\7324c144f7d6c28391ea2f4944470bb0
+      fullPath: E:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\73\7324c144f7d6c28391ea2f4944470bb0
+      projectPath: Library\Artifacts\73\7324c144f7d6c28391ea2f4944470bb0
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\af\afd194f7361d9eb6ac116361dd92d652
+      fullPath: E:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\af\afd194f7361d9eb6ac116361dd92d652
+      projectPath: Library\Artifacts\af\afd194f7361d9eb6ac116361dd92d652
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\c1\c136429a574468a9f8960eccc0bf846e
+      fullPath: E:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\c1\c136429a574468a9f8960eccc0bf846e
+      projectPath: Library\Artifacts\c1\c136429a574468a9f8960eccc0bf846e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\c6\c666a82fba880dc5347f04590241c3d4
+      fullPath: E:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\c6\c666a82fba880dc5347f04590241c3d4
+      projectPath: Library\Artifacts\c6\c666a82fba880dc5347f04590241c3d4
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\cb\cb0e0cac5443a247b719f9cf18425714
+      fullPath: E:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\cb\cb0e0cac5443a247b719f9cf18425714
+      projectPath: Library\Artifacts\cb\cb0e0cac5443a247b719f9cf18425714
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\InspectorExpandedItems.asset
+      fullPath: E:\Code\ZombieCrossing\ZombieCrossingGame\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SceneVisibilityState.asset
+      fullPath: E:\Code\ZombieCrossing\ZombieCrossingGame\Library\SceneVisibilityState.asset
+      projectPath: Library\SceneVisibilityState.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: E:\Code\ZombieCrossing\ZombieCrossingGame\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      fullPath: E:\Code\ZombieCrossing\ZombieCrossingGame\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\MainStageHierarchy\8f\8fd65426490f636435c901d65ce7ed24.json
+      fullPath: E:\Code\ZombieCrossing\ZombieCrossingGame\Library\StateCache\MainStageHierarchy\8f\8fd65426490f636435c901d65ce7ed24.json
+      projectPath: Library\StateCache\MainStageHierarchy\8f\8fd65426490f636435c901d65ce7ed24.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\SceneView\8b\8b0d1387a24a688f32df764794220fab.json
+      fullPath: E:\Code\ZombieCrossing\ZombieCrossingGame\Library\StateCache\SceneView\8b\8b0d1387a24a688f32df764794220fab.json
+      projectPath: Library\StateCache\SceneView\8b\8b0d1387a24a688f32df764794220fab.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: E:\Code\ZombieCrossing\ZombieCrossingGame\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: E:\Code\ZombieCrossing\ZombieCrossingGame\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: E:\Code\ZombieCrossing\ZombieCrossingGame\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: E:\Code\ZombieCrossing\ZombieCrossingGame\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: E:\Code\ZombieCrossing\ZombieCrossingGame\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: E:\Code\ZombieCrossing\ZombieCrossingGame\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Logs\AssetImportWorker0.log
+      fullPath: E:\Code\ZombieCrossing\ZombieCrossingGame\Logs\AssetImportWorker0.log
+      projectPath: Logs\AssetImportWorker0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: ProjectSettings\InputManager.asset
+      fullPath: E:\Code\ZombieCrossing\ZombieCrossingGame\ProjectSettings\InputManager.asset
+      projectPath: ProjectSettings\InputManager.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: ProjectSettings\TimelineSettings.asset
+      fullPath: E:\Code\ZombieCrossing\ZombieCrossingGame\ProjectSettings\TimelineSettings.asset
+      projectPath: ProjectSettings\TimelineSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
   - commitID: 8ef5a628cf59c5014a6dc831849ff4999082a828
     mergeA: 
     mergeB: 
