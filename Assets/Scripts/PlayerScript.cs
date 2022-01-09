@@ -10,6 +10,7 @@ public class PlayerScript : MonoBehaviour
     private bool spacePressed;
     private bool isGrounded;
     private bool shiftPressed;
+    private bool gotHit;
     private float horizontalInput;
     private float verticalInput;
     private Rigidbody rb;
@@ -23,6 +24,7 @@ public class PlayerScript : MonoBehaviour
     {
         spacePressed = false;
         isGrounded = false;
+        gotHit = false;
         rb = GetComponent<Rigidbody>();
     }
 
@@ -81,6 +83,23 @@ public class PlayerScript : MonoBehaviour
 
             rb.velocity = moveDirection.normalized * PLAYER_MOVEMENT_SPEED * sprintSpeed;
         }
+
+        if(gotHit)
+        {
+            KnockBack();
+            gotHit = false;
+        }
+    }
+
+    private void KnockBack()
+    {
+
+    }
+
+    public void TakeHit(int damage)
+    {
+        Debug.Log("Got hit");
+        gotHit = true;
     }
 
 }

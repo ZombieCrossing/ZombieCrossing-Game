@@ -6,6 +6,8 @@ public class ZombieScript : MonoBehaviour
     private float targetDistance;
     public float range = 40;
     private float minDistanceFromPlayer = 0.8f;
+    private float attackDistance =  1f;
+    private int health = 100;
     // private GameObject zombie;
     private float followSpeed = 0.1f;
     private RaycastHit shot;
@@ -13,6 +15,7 @@ public class ZombieScript : MonoBehaviour
     private Vector3 walkPoint;
     private bool walkPointSet = false;
     private bool isGrounded;
+    public int attackDamage = 10;
 
     public LayerMask playerMask;
 
@@ -49,9 +52,9 @@ public class ZombieScript : MonoBehaviour
                 followSpeed = 0.1f;
                 transform.position = Vector3.MoveTowards(transform.position, player.transform.position, followSpeed);
             }
-            else
+            if(targetDistance <= attackDistance)
             {
-                  
+                Attack();
             }
         }
     }
@@ -84,5 +87,25 @@ public class ZombieScript : MonoBehaviour
             // Debug.Log("Reset walkpoint");
             walkPointSet = false;
         }
+    }
+
+    private void Attack()
+    {
+        PlayerScript ps = player.GetComponent<PlayerScript>();
+        ps.TakeHit(attackDamage);
+    }
+
+    public void TakeDamage(int damage)
+    {
+        health -= damage;
+        if(health <= 0f)
+        {
+            die();
+        }
+    }
+
+    private void die()
+    {
+        Destroy(gameObject);
     }
 }
