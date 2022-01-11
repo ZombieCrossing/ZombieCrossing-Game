@@ -12,14 +12,17 @@ public class PlayerScript : MonoBehaviour
     private bool isGrounded;
     private bool shiftPressed;
     private bool gotHit;
+    private bool leftMouseButtonClicked;
     private float horizontalInput;
     private float verticalInput;
     private Rigidbody rb;
+    private EnemyRadar radar;
     private float turnSmoothVelocity;
     private Transform enemyPosition;
 
     public float turnSmoothTime = 0.1f;
     public Transform cam;
+    public float attackRange = 10;
 
     // Start is called before the first frame update
     void Start()
@@ -27,7 +30,9 @@ public class PlayerScript : MonoBehaviour
         spacePressed = false;
         isGrounded = false;
         gotHit = false;
+        leftMouseButtonClicked = false;
         rb = GetComponent<Rigidbody>();
+        radar = GetComponentInChildren<EnemyRadar>();
     }
 
     // Update is called once per frame
@@ -45,6 +50,10 @@ public class PlayerScript : MonoBehaviour
         if(Input.GetKeyUp(KeyCode.LeftShift))
         {
             shiftPressed=false;
+        }
+        if(Input.GetMouseButtonDown(0))
+        {
+            leftMouseButtonClicked=true;
         }
 
         horizontalInput = Input.GetAxis("Horizontal");
@@ -86,11 +95,29 @@ public class PlayerScript : MonoBehaviour
             rb.velocity = moveDirection.normalized * PLAYER_MOVEMENT_SPEED * sprintSpeed;
         }
 
-        if(gotHit)
+        if (leftMouseButtonClicked)
+        {
+            Attack();
+            leftMouseButtonClicked = false;
+        }
+
+        if (gotHit)
         {
             KnockBack();
             gotHit = false;
         }
+    }
+
+    private void Attack()
+    {
+        // TODO: Play Attack Animation
+        Transform[] enemiesInRange = radar.GetEnemiesInRange(attackRange);
+        if (enemiesInRange == null || enemiesInRange.Length == 0)
+        {
+            return;
+        }
+
+        // TODO: Check if player is looking at an enemy and hit that enemy
     }
 
     private void KnockBack()

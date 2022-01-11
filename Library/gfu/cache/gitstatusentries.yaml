@@ -13,414 +13,144 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2022-01-11T19:17:34.313+01:00
+  lastUpdatedAtString: 2022-01-11T19:55:14.090+01:00
   initializedAtString: 2022-01-11T19:03:46.447+01:00
   entries:
+  - path: .vs\ZombieCrossingGame\v17\.suo
+    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\.vs\ZombieCrossingGame\v17\.suo
+    projectPath: .vs\ZombieCrossingGame\v17\.suo
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: .vs\ZombieCrossingGame\v17\fileList.bin
+    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\.vs\ZombieCrossingGame\v17\fileList.bin
+    projectPath: .vs\ZombieCrossingGame\v17\fileList.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assembly-CSharp.csproj
+    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assembly-CSharp.Player.csproj
+    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Assembly-CSharp.Player.csproj
+    projectPath: Assembly-CSharp.Player.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\EnemyRadar.cs
+    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Assets\Scripts\EnemyRadar.cs
+    projectPath: Assets\Scripts\EnemyRadar.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\EnemyRadar.cs.meta
+    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Assets\Scripts\EnemyRadar.cs.meta
+    projectPath: Assets\Scripts\EnemyRadar.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Scripts\PlayerScript.cs
     fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Assets\Scripts\PlayerScript.cs
     projectPath: Assets\Scripts\PlayerScript.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Scripts\ZombieScript.cs
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Assets\Scripts\ZombieScript.cs
-    projectPath: Assets\Scripts\ZombieScript.cs
+  - path: Library\Artifacts\33\33a73ed5c93c4f1384d19f026de8d5a0
+    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\33\33a73ed5c93c4f1384d19f026de8d5a0
+    projectPath: Library\Artifacts\33\33a73ed5c93c4f1384d19f026de8d5a0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\39\395025d8828fec3de8b97b9de8483f15
+    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\39\395025d8828fec3de8b97b9de8483f15
+    projectPath: Library\Artifacts\39\395025d8828fec3de8b97b9de8483f15
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\50\50feabc543bafdb4dabf3a221be3fa0a
+    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\50\50feabc543bafdb4dabf3a221be3fa0a
+    projectPath: Library\Artifacts\50\50feabc543bafdb4dabf3a221be3fa0a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\57\5723228b536359d9792743d94ab40faa
+    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\57\5723228b536359d9792743d94ab40faa
+    projectPath: Library\Artifacts\57\5723228b536359d9792743d94ab40faa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\5d\5daaf29a33664aa98461368c4c3220a3
+    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\5d\5daaf29a33664aa98461368c4c3220a3
+    projectPath: Library\Artifacts\5d\5daaf29a33664aa98461368c4c3220a3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\70\707bf7ab0c60b52de9e4eb9396a10a92
+    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\70\707bf7ab0c60b52de9e4eb9396a10a92
+    projectPath: Library\Artifacts\70\707bf7ab0c60b52de9e4eb9396a10a92
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\9d\9d207e602f7cc27d9691e7ea79691206
+    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\9d\9d207e602f7cc27d9691e7ea79691206
+    projectPath: Library\Artifacts\9d\9d207e602f7cc27d9691e7ea79691206
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b6\b694d3fe5e983233602f8b563541b2eb
+    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\b6\b694d3fe5e983233602f8b563541b2eb
+    projectPath: Library\Artifacts\b6\b694d3fe5e983233602f8b563541b2eb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ba\ba0068ace62cd571960d778da0af846c
+    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\ba\ba0068ace62cd571960d778da0af846c
+    projectPath: Library\Artifacts\ba\ba0068ace62cd571960d778da0af846c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\bb\bbc6b4fee206a0fd0691eaf3f046fdb2
+    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\bb\bbc6b4fee206a0fd0691eaf3f046fdb2
+    projectPath: Library\Artifacts\bb\bbc6b4fee206a0fd0691eaf3f046fdb2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c4\c4a453308b2268adfa25bc9df30ed02e
+    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\c4\c4a453308b2268adfa25bc9df30ed02e
+    projectPath: Library\Artifacts\c4\c4a453308b2268adfa25bc9df30ed02e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ca\ca7792ac25befdc242f3155f0df40e37
+    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\ca\ca7792ac25befdc242f3155f0df40e37
+    projectPath: Library\Artifacts\ca\ca7792ac25befdc242f3155f0df40e37
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f4\f475e9377efafd9737d62beabb80e1e6
+    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\f4\f475e9377efafd9737d62beabb80e1e6
+    projectPath: Library\Artifacts\f4\f475e9377efafd9737d62beabb80e1e6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ArtifactDB
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\ArtifactDB
-    projectPath: Library\ArtifactDB
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Artifacts\0d\0d5de0578e3eae0d2b601f61f63037b7
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\0d\0d5de0578e3eae0d2b601f61f63037b7
-    projectPath: Library\Artifacts\0d\0d5de0578e3eae0d2b601f61f63037b7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\13\1381b8a7d0c130536829395eed21ecb3
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\13\1381b8a7d0c130536829395eed21ecb3
-    projectPath: Library\Artifacts\13\1381b8a7d0c130536829395eed21ecb3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\17\178b67844dff980fcf6e6675ed9cb69c
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\17\178b67844dff980fcf6e6675ed9cb69c
-    projectPath: Library\Artifacts\17\178b67844dff980fcf6e6675ed9cb69c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\18\1846286af828945fd911b7153b917a89
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\18\1846286af828945fd911b7153b917a89
-    projectPath: Library\Artifacts\18\1846286af828945fd911b7153b917a89
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\1e\1ed6e53246df9a8477954786e32c125c
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\1e\1ed6e53246df9a8477954786e32c125c
-    projectPath: Library\Artifacts\1e\1ed6e53246df9a8477954786e32c125c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\1e\1ef92bbed9d4a12753fb2a9a0536717f
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\1e\1ef92bbed9d4a12753fb2a9a0536717f
-    projectPath: Library\Artifacts\1e\1ef92bbed9d4a12753fb2a9a0536717f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\1f\1fc981484067e5ef166f4f6a0ca19355
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\1f\1fc981484067e5ef166f4f6a0ca19355
-    projectPath: Library\Artifacts\1f\1fc981484067e5ef166f4f6a0ca19355
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\23\23a44aacc42d1a58b958b81889ad2810
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\23\23a44aacc42d1a58b958b81889ad2810
-    projectPath: Library\Artifacts\23\23a44aacc42d1a58b958b81889ad2810
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\28\28ef3e1e723f18f1cc0b317b60cd32db
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\28\28ef3e1e723f18f1cc0b317b60cd32db
-    projectPath: Library\Artifacts\28\28ef3e1e723f18f1cc0b317b60cd32db
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\3b\3bc5a8e22712bb5d00528c69a368dd37
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\3b\3bc5a8e22712bb5d00528c69a368dd37
-    projectPath: Library\Artifacts\3b\3bc5a8e22712bb5d00528c69a368dd37
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\40\4035731fb17e579e98a54e8c130333a9
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\40\4035731fb17e579e98a54e8c130333a9
-    projectPath: Library\Artifacts\40\4035731fb17e579e98a54e8c130333a9
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\44\44cbca47ba6f75042aafe5d20dd346f1
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\44\44cbca47ba6f75042aafe5d20dd346f1
-    projectPath: Library\Artifacts\44\44cbca47ba6f75042aafe5d20dd346f1
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\4b\4b648860ba0c0b07ed0d2d7a80b3ef1f
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\4b\4b648860ba0c0b07ed0d2d7a80b3ef1f
-    projectPath: Library\Artifacts\4b\4b648860ba0c0b07ed0d2d7a80b3ef1f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\51\510132cf2908946b36ee9ccc63c49dba
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\51\510132cf2908946b36ee9ccc63c49dba
-    projectPath: Library\Artifacts\51\510132cf2908946b36ee9ccc63c49dba
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\59\5915525073bb5808e1d74ffa5a8f38fd
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\59\5915525073bb5808e1d74ffa5a8f38fd
-    projectPath: Library\Artifacts\59\5915525073bb5808e1d74ffa5a8f38fd
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\5a\5a9f4081cccd4c2dbf394b45b335590d
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\5a\5a9f4081cccd4c2dbf394b45b335590d
-    projectPath: Library\Artifacts\5a\5a9f4081cccd4c2dbf394b45b335590d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\61\61d919bbeee13e53dfa438198687972f
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\61\61d919bbeee13e53dfa438198687972f
-    projectPath: Library\Artifacts\61\61d919bbeee13e53dfa438198687972f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\6b\6bbd48294ab94b2433f5c01cc4729604
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\6b\6bbd48294ab94b2433f5c01cc4729604
-    projectPath: Library\Artifacts\6b\6bbd48294ab94b2433f5c01cc4729604
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\6e\6e1d52a9a3140c485c8ee92353fc7df9
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\6e\6e1d52a9a3140c485c8ee92353fc7df9
-    projectPath: Library\Artifacts\6e\6e1d52a9a3140c485c8ee92353fc7df9
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\7f\7f14851bf9d170b073336fa4d4c18482
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\7f\7f14851bf9d170b073336fa4d4c18482
-    projectPath: Library\Artifacts\7f\7f14851bf9d170b073336fa4d4c18482
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\7f\7febfa517af764a9cdaa64116995985e
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\7f\7febfa517af764a9cdaa64116995985e
-    projectPath: Library\Artifacts\7f\7febfa517af764a9cdaa64116995985e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\81\8156aa1d84883e0208f7df2cc57a87d6
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\81\8156aa1d84883e0208f7df2cc57a87d6
-    projectPath: Library\Artifacts\81\8156aa1d84883e0208f7df2cc57a87d6
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\91\91d24e560f4fd59e44df95c75bd70643
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\91\91d24e560f4fd59e44df95c75bd70643
-    projectPath: Library\Artifacts\91\91d24e560f4fd59e44df95c75bd70643
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\91\91e67d089c39f363a8e70d13437fad37
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\91\91e67d089c39f363a8e70d13437fad37
-    projectPath: Library\Artifacts\91\91e67d089c39f363a8e70d13437fad37
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\9b\9ba29c054945eea402b8e15dfd533de9
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\9b\9ba29c054945eea402b8e15dfd533de9
-    projectPath: Library\Artifacts\9b\9ba29c054945eea402b8e15dfd533de9
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\9f\9f8eff63558b4b57e1d213a5ea6460d0
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\9f\9f8eff63558b4b57e1d213a5ea6460d0
-    projectPath: Library\Artifacts\9f\9f8eff63558b4b57e1d213a5ea6460d0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\a1\a1ff26e55be8c41a54aced6b8a8ecb68
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\a1\a1ff26e55be8c41a54aced6b8a8ecb68
-    projectPath: Library\Artifacts\a1\a1ff26e55be8c41a54aced6b8a8ecb68
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\a3\a39c6fa1dd41855e34de92b21539da67
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\a3\a39c6fa1dd41855e34de92b21539da67
-    projectPath: Library\Artifacts\a3\a39c6fa1dd41855e34de92b21539da67
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\a4\a469924d62b78ce9c337df2d5db398bd
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\a4\a469924d62b78ce9c337df2d5db398bd
-    projectPath: Library\Artifacts\a4\a469924d62b78ce9c337df2d5db398bd
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\a6\a616420acbd4cb0bda78b7872c638817
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\a6\a616420acbd4cb0bda78b7872c638817
-    projectPath: Library\Artifacts\a6\a616420acbd4cb0bda78b7872c638817
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\a7\a716442cc93773db7ebbb66f8d78fdef
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\a7\a716442cc93773db7ebbb66f8d78fdef
-    projectPath: Library\Artifacts\a7\a716442cc93773db7ebbb66f8d78fdef
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\a7\a7de452aa116c56fcd14ea36c40dd957
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\a7\a7de452aa116c56fcd14ea36c40dd957
-    projectPath: Library\Artifacts\a7\a7de452aa116c56fcd14ea36c40dd957
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\b3\b3c6b229d4e85eb1a09473aaca095d7b
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\b3\b3c6b229d4e85eb1a09473aaca095d7b
-    projectPath: Library\Artifacts\b3\b3c6b229d4e85eb1a09473aaca095d7b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\b6\b62049af2de16ad274a4f9a165375b88
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\b6\b62049af2de16ad274a4f9a165375b88
-    projectPath: Library\Artifacts\b6\b62049af2de16ad274a4f9a165375b88
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\b6\b6b517c8d162785a13529842482e9f97
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\b6\b6b517c8d162785a13529842482e9f97
-    projectPath: Library\Artifacts\b6\b6b517c8d162785a13529842482e9f97
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\b7\b74e989cda6517ef8fd32b6f1bdb5046
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\b7\b74e989cda6517ef8fd32b6f1bdb5046
-    projectPath: Library\Artifacts\b7\b74e989cda6517ef8fd32b6f1bdb5046
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\ba\baf2c1c0e77bd0a3031d32b2de236ec5
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\ba\baf2c1c0e77bd0a3031d32b2de236ec5
-    projectPath: Library\Artifacts\ba\baf2c1c0e77bd0a3031d32b2de236ec5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\c0\c06ef78b3acd63a001c0c3b274136274
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\c0\c06ef78b3acd63a001c0c3b274136274
-    projectPath: Library\Artifacts\c0\c06ef78b3acd63a001c0c3b274136274
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\c1\c109e5830ce8a227ec4e87797f86765e
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\c1\c109e5830ce8a227ec4e87797f86765e
-    projectPath: Library\Artifacts\c1\c109e5830ce8a227ec4e87797f86765e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\c2\c20f190eef0aa975d2d4c449160701f8
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\c2\c20f190eef0aa975d2d4c449160701f8
-    projectPath: Library\Artifacts\c2\c20f190eef0aa975d2d4c449160701f8
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\c5\c5ba7aeea832335e4a022b17e8ee6e56
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\c5\c5ba7aeea832335e4a022b17e8ee6e56
-    projectPath: Library\Artifacts\c5\c5ba7aeea832335e4a022b17e8ee6e56
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\c8\c885f6ecf19e0f87594ff560a996a7da
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\c8\c885f6ecf19e0f87594ff560a996a7da
-    projectPath: Library\Artifacts\c8\c885f6ecf19e0f87594ff560a996a7da
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\cd\cd2a70cc07b553206339f1d68e5bcdd1
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\cd\cd2a70cc07b553206339f1d68e5bcdd1
-    projectPath: Library\Artifacts\cd\cd2a70cc07b553206339f1d68e5bcdd1
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\d1\d14d186664591acebb13a5a1ecfe0cbb
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\d1\d14d186664591acebb13a5a1ecfe0cbb
-    projectPath: Library\Artifacts\d1\d14d186664591acebb13a5a1ecfe0cbb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\d1\d1bfbca202e8a8a86aa586c1df6863b2
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\d1\d1bfbca202e8a8a86aa586c1df6863b2
-    projectPath: Library\Artifacts\d1\d1bfbca202e8a8a86aa586c1df6863b2
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\d2\d248f2b8fa74d808102ac0ef1ae39aa0
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\d2\d248f2b8fa74d808102ac0ef1ae39aa0
-    projectPath: Library\Artifacts\d2\d248f2b8fa74d808102ac0ef1ae39aa0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\d4\d4808355767c9240b7bdf288b776e200
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\d4\d4808355767c9240b7bdf288b776e200
-    projectPath: Library\Artifacts\d4\d4808355767c9240b7bdf288b776e200
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\d4\d4fe6e892ec2e5ce896928e7437bd476
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\d4\d4fe6e892ec2e5ce896928e7437bd476
-    projectPath: Library\Artifacts\d4\d4fe6e892ec2e5ce896928e7437bd476
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\d6\d67de3d829f6e9997e797bc7883939da
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\d6\d67de3d829f6e9997e797bc7883939da
-    projectPath: Library\Artifacts\d6\d67de3d829f6e9997e797bc7883939da
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\d7\d7ac8000222da2d1c9967ed830fce4b8
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\d7\d7ac8000222da2d1c9967ed830fce4b8
-    projectPath: Library\Artifacts\d7\d7ac8000222da2d1c9967ed830fce4b8
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\dc\dc349575ea178378e10c951edd1514bb
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\dc\dc349575ea178378e10c951edd1514bb
-    projectPath: Library\Artifacts\dc\dc349575ea178378e10c951edd1514bb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\e3\e33c9d1f7cb01fae0d9f555042c342a6
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\e3\e33c9d1f7cb01fae0d9f555042c342a6
-    projectPath: Library\Artifacts\e3\e33c9d1f7cb01fae0d9f555042c342a6
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\f0\f00c31fa1afaf32c71cd33b9c273d756
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\f0\f00c31fa1afaf32c71cd33b9c273d756
-    projectPath: Library\Artifacts\f0\f00c31fa1afaf32c71cd33b9c273d756
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\f1\f13f4c08269239db6cc2854595a49f4f
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\f1\f13f4c08269239db6cc2854595a49f4f
-    projectPath: Library\Artifacts\f1\f13f4c08269239db6cc2854595a49f4f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\f7\f7c3dccb87fe3bce1546fba2b4a43e36
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\f7\f7c3dccb87fe3bce1546fba2b4a43e36
-    projectPath: Library\Artifacts\f7\f7c3dccb87fe3bce1546fba2b4a43e36
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\f7\f7f8e9d910a2f8f805c12c7106998cba
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\f7\f7f8e9d910a2f8f805c12c7106998cba
-    projectPath: Library\Artifacts\f7\f7f8e9d910a2f8f805c12c7106998cba
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\f8\f8f5bff3c48d544350402aae1cbb36b9
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\f8\f8f5bff3c48d544350402aae1cbb36b9
-    projectPath: Library\Artifacts\f8\f8f5bff3c48d544350402aae1cbb36b9
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\fa\fa6a1c179e420686932de4714a1fec66
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\fa\fa6a1c179e420686932de4714a1fec66
-    projectPath: Library\Artifacts\fa\fa6a1c179e420686932de4714a1fec66
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\fa\facf6897a75895d4511681405100458f
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\fa\facf6897a75895d4511681405100458f
-    projectPath: Library\Artifacts\fa\facf6897a75895d4511681405100458f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\fb\fb14dfb5e39bfba0cd4acea553958c11
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\fb\fb14dfb5e39bfba0cd4acea553958c11
-    projectPath: Library\Artifacts\fb\fb14dfb5e39bfba0cd4acea553958c11
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\fd\fd4effbc1161358dc3c0b55afde3ced5
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\fd\fd4effbc1161358dc3c0b55afde3ced5
-    projectPath: Library\Artifacts\fd\fd4effbc1161358dc3c0b55afde3ced5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\fe\fe6b60ad56419386003699b06565a146
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\fe\fe6b60ad56419386003699b06565a146
-    projectPath: Library\Artifacts\fe\fe6b60ad56419386003699b06565a146
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\ff\ff2743228520b886606b4f4a61812cbd
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\Artifacts\ff\ff2743228520b886606b4f4a61812cbd
-    projectPath: Library\Artifacts\ff\ff2743228520b886606b4f4a61812cbd
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\EditorInstance.json
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\EditorInstance.json
-    projectPath: Library\EditorInstance.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library\gfu\cache\gitlocks.yaml
     fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -436,9 +166,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\gfu\cache\repoinfo.yaml
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\gfu\cache\repoinfo.yaml
-    projectPath: Library\gfu\cache\repoinfo.yaml
+  - path: Library\InspectorExpandedItems.asset
+    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -460,18 +190,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ShaderCache\EditorEncounteredVariants
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\ShaderCache\EditorEncounteredVariants
-    projectPath: Library\ShaderCache\EditorEncounteredVariants
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\SourceAssetDB
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\SourceAssetDB
-    projectPath: Library\SourceAssetDB
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\StateCache\MainStageHierarchy\8f\8fd65426490f636435c901d65ce7ed24.json
     fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Library\StateCache\MainStageHierarchy\8f\8fd65426490f636435c901d65ce7ed24.json
     projectPath: Library\StateCache\MainStageHierarchy\8f\8fd65426490f636435c901d65ce7ed24.json
@@ -490,15 +208,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Logs\AssetImportWorker0-prev.log
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Logs\AssetImportWorker0-prev.log
-    projectPath: Logs\AssetImportWorker0-prev.log
+  - path: obj\Debug\Assembly-CSharp.Player.csproj.AssemblyReference.cache
+    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\obj\Debug\Assembly-CSharp.Player.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp.Player.csproj.AssemblyReference.cache
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Logs\shadercompiler-AssetImportWorker0.log
-    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\Logs\shadercompiler-AssetImportWorker0.log
-    projectPath: Logs\shadercompiler-AssetImportWorker0.log
+  - path: ProjectSettings\TagManager.asset
+    fullPath: D:\Code\ZombieCrossing\ZombieCrossingGame\ProjectSettings\TagManager.asset
+    projectPath: ProjectSettings\TagManager.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
