@@ -15,7 +15,7 @@ public class ZombieScript : MonoBehaviour
     private Vector3 walkPoint;
     private bool walkPointSet = false;
     private bool isGrounded;
-    public int attackDamage = 10;
+    public int attackDamage = 12;
 
     public LayerMask playerMask;
 
@@ -92,7 +92,7 @@ public class ZombieScript : MonoBehaviour
     private void Attack()
     {
         PlayerScript ps = player.GetComponent<PlayerScript>();
-        ps.TakeHit(attackDamage);
+        ps.TakeHit(attackDamage, transform);
     }
 
     public void TakeDamage(int damage)

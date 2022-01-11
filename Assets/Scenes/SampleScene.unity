@@ -355,7 +355,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 408232577}
-  m_LocalRotation: {x: 0.013005921, y: 0.000000017215006, z: -2.2391596e-10, w: 0.9999154}
+  m_LocalRotation: {x: 0.01300592, y: -0.000000017209965, z: 2.2385034e-10, w: 0.9999154}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -634,7 +634,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
-  m_LocalRotation: {x: 0.0039678765, y: 0.00067400717, z: -0.0000026741407, w: 0.99999195}
+  m_LocalRotation: {x: 0.0039678765, y: 0.00067400717, z: -0.0000026741443, w: 0.99999195}
   m_LocalPosition: {x: 0, y: 2.533, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -741,7 +741,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1181163445}
-  m_LocalRotation: {x: 0.0493192, y: 0.000000017453438, z: -8.6183827e-10, w: 0.9987831}
+  m_LocalRotation: {x: 0.04931922, y: -0.00000001705223, z: 8.420273e-10, w: 0.9987831}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -941,7 +941,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1352011674}
-  m_LocalRotation: {x: 0.003967879, y: 0.0006740071, z: -0.0000026744, w: 0.9999919}
+  m_LocalRotation: {x: 0.0039678784, y: 0.0006740071, z: -0.0000026743999, w: 0.9999919}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -1352,6 +1352,10 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 1565465013}
+    - target: {fileID: 3318442815540611844, guid: 5bfebdc13b04faa49a70b0a2020c40ae, type: 3}
+      propertyPath: attackDamage
+      value: 12
+      objectReference: {fileID: 0}
     - target: {fileID: 3318442815540611844, guid: 5bfebdc13b04faa49a70b0a2020c40ae, type: 3}
       propertyPath: playerMask.m_Bits
       value: 64

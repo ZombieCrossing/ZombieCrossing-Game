@@ -6,6 +6,7 @@ public class PlayerScript : MonoBehaviour
 {
     private const float JUMP_FORCE = 5;
     private const float PLAYER_MOVEMENT_SPEED = 2;
+    public const float KNOCKBACK_FORCE = 2;
 
     private bool spacePressed;
     private bool isGrounded;
@@ -15,6 +16,7 @@ public class PlayerScript : MonoBehaviour
     private float verticalInput;
     private Rigidbody rb;
     private float turnSmoothVelocity;
+    private Transform enemyPosition;
 
     public float turnSmoothTime = 0.1f;
     public Transform cam;
@@ -93,13 +95,17 @@ public class PlayerScript : MonoBehaviour
 
     private void KnockBack()
     {
+        Vector3 direction = transform.position - enemyPosition.position + (Vector3.up/2);
+        direction = direction.normalized;
 
+        rb.AddForce(direction * KNOCKBACK_FORCE, ForceMode.Impulse);
     }
 
-    public void TakeHit(int damage)
+    public void TakeHit(int damage, Transform enemyPosition)
     {
         Debug.Log("Got hit");
         gotHit = true;
+        this.enemyPosition = enemyPosition;
     }
 
 }
